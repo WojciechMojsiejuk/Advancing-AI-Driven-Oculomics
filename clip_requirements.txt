@@ -1,0 +1,10 @@
+numpy==1.26.4
+matplotlib==3.10.1
+scikit-learn==1.6.1
+scipy==1.15.2
+sympy==1.13.3
+torch==2.2.2
+torcheval==0.0.7
+torchvision==0.17.2
+openai-clip==1.0.1
+opencv-python==4.11.0.86
