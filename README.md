@@ -1,3 +1,15 @@
+# CLIP (Wojciech)
+
+[CLIP_Solution.ipynb](CLIP_Solution.ipynb) -- Main Open AI CLIP solution including binary and multiclass diabetic retinopathy classification, GradCAM, focal loss
+
+[clip_requirements.txt](clip_requirements.txt) -- requirement file to install python libraries with pip command for CLIP Solution
+
+[OpenCLIP.ipynb](OpenCLIP.ipynb) -- OpenCLIP testing
+
+[train_data.csv](train_data.csv) -- CSV file needed for OpenCLIP
+
+[val_data.csv](val_data.csv) -- CSV file needed for OpenCLIP
+
 ## RETFound - A foundation model for retinal imaging
 
 
